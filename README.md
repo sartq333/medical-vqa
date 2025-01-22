@@ -4,7 +4,7 @@ Finetuned BLIP pretrained model on [PathVQA Dataset](https://huggingface.co/data
 Datset looks like this:
 ![image](https://github.com/user-attachments/assets/b5afd54e-31f0-4105-ad4c-6311f0b6028c)
 
-# Referencs
+# References
 [BLIP on huggingface](https://huggingface.co/docs/transformers/en/model_doc/blip)
 
 [Paper link](https://arxiv.org/abs/2201.12086)
