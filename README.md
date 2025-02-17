@@ -12,6 +12,8 @@ During inference, the image is first encoded and then those vectors representing
 
 [Paper link](https://arxiv.org/abs/2201.12086)
 
+[Annotated version of paper](https://github.com/sartq333/Annotated-ML-Papers/blob/master/BLIP.pdf)
+
 [Yannic's explanation](https://www.youtube.com/watch?v=X2k7n4FuI7c)
 
 # Things to do:
